@@ -4,7 +4,7 @@
 
 ## Group 2
 
-* [docker n8n at Mac](group-2/docker-n8n-at-mac.md)
+* [docker setup n8n at Mac](group-2/docker-setup-n8n-at-mac.md)
 * [Page](group-2/page.md)
 * [Workflow-AI-powered job news](group-2/workflow-ai-powered-job-news.md)
 
@@ -14,4 +14,4 @@
 
 ## Group 1
 
-* [Summary of phd](group-1/summary-of-phd.md)
+* [Summary of project](group-1/summary-of-project.md)
