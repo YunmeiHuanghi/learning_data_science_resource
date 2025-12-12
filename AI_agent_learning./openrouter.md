@@ -1,10 +1,6 @@
 # openrouter
 
-openrouter api key
-
-
-
-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&#x20;
+openrouter api key&#x20;
 
 
 
